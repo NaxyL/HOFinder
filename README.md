@@ -1,2 +1,2 @@
 # HOFinder
-discord.gg/hof
+HELP : https://discord.gg/hof

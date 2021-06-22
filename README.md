@@ -1,0 +1,2 @@
+# HOFinder
+discord.gg/hof
